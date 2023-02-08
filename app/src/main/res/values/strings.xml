@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My FirstApp</string>
+    <string name="about">goingUp_page</string>
+    <string name="first_name">contact</string>
+    <string name="last_name">e-mail</string>
+    <string name="des">hi, i\'m pranav kumar and i want to be human. my name is pranav kumar remember it.</string>
+    <string name="hint">Enter your name</string>
+
+</resources>
